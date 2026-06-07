@@ -130,7 +130,7 @@ My approach to credit risk prediction involved the following steps:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Shilpachhatani/Credit-Risk-Prediction.git
+git clone https://github.com/yashkumar23/Credit-Risk-Prediction.git
 
 # 2. Navigate to the project directory
 cd Credit-Risk-Prediction
@@ -148,6 +148,6 @@ an issue or submit a pull request.
 ## 📬 Contact
 
 For questions or collaboration:
-- GitHub: `Shilpachhatani`
-- Email: `shilpachhatani669@gmail.com`.
+- **GitHub**: `yashkumar23`
+- **Email**: yashchhatani7@gmail.com 
 
